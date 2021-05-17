@@ -53,7 +53,6 @@ function setup() {
   quaffle.addImage(quaffle_img)
   quaffle.scale=0.14
   quaffle.velocityY=16
-  quaffle.debug = true;
 
   snitch=createSprite(1300,300,40,40);
   snitch.addImage(snitch_img)
